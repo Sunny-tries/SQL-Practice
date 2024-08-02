@@ -1,0 +1,15 @@
+emp_ID,emp_NAME,DEPT_NAME,SALARY,rnk
+120,Monica,Admin,5000,1
+101,Mohan,Admin,4000,2
+108,Maryam,Admin,4000,2
+104,Dorvin,Finance,6500,1
+116,Satya,Finance,6500,1
+118,Tejaswi,Finance,5500,3
+119,Cory,HR,8000,1
+107,Preet,HR,7000,2
+117,Adarsh,HR,3500,3
+124,Dheeraj,IT,11000,1
+112,Komal,IT,10000,2
+111,Melinda,IT,8000,3
+122,Ibrahim,IT,8000,3
+123,Vikram,IT,8000,3

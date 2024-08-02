@@ -1,0 +1,9 @@
+emp_ID,emp_NAME,DEPT_NAME,SALARY,rn
+101,Mohan,Admin,4000,1
+108,Maryam,Admin,4000,2
+104,Dorvin,Finance,6500,1
+106,Rajesh,Finance,5000,2
+102,Rajkumar,HR,3000,1
+105,Rohit,HR,3000,2
+103,Akbar,IT,4000,1
+109,Sanjay,IT,6500,2
